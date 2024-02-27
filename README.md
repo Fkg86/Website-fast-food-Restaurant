@@ -11,11 +11,17 @@ A responsive food website project was developed.
 # Screenshots
 
 ![](1.jpg)
+![](2.jpg)
+![](3.jpg)
+
 
 # Videos
 
-![](HTML_CSS_Amazon_Clone.mp4)
+![](Website_fast_food_Rest-1.mp4)
+![](Website_fast_food_Rest-2.mp4)
+
 
 # GIF
 
-![](HTML_CSS_Amazon_Clone.gif)
+![](Website_fast_food_Rest-2.gif)
+![](Website_fast_food_Rest.gif)
